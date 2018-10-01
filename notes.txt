@@ -1,4 +1,5 @@
-nueva nota para remoto
+﻿nueva nota para remoto
 actualización de nota
 segunda actualización de cláusulas
 actualización con Aurees
+actualización con GithubDesktop instalado
